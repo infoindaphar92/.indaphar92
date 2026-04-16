@@ -1,4 +1,14 @@
+export default function Indaphar92Site() {
+  const products = [
+    "Médicaments génériques",
+    "Produits hospitaliers",
+    "Consommables médicaux",
+    "Parapharmacie",
+    "Distribution pharmaceutique",
+    "Conseil et disponibilité rapide",
+  ];
 
+  return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       <header className="bg-blue-900 text-white">
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
